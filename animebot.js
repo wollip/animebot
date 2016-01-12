@@ -2,8 +2,8 @@ var http = require("http");
 var login = require('facebook-chat-api');
 
 
-var FB_LOGIN_EMAIL = "ranimebot@gmail.com";
-var FB_LOGIN_PASSWORD	= "Hihihi123*";
+var FB_LOGIN_EMAIL = "****";
+var FB_LOGIN_PASSWORD	= "******";
 
 // creating a server
 http.createServer(function (request, response) {
